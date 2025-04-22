@@ -4,6 +4,8 @@
 
 This web application provides an in-depth analysis of Olympic data. It allows users to explore various aspects of the Olympics, such as medal tallies, overall analysis, country-wise performance, and athlete-wise statistics. The app leverages data visualization to present insights in a user-friendly manner.
 
+![Architecture Diagram](olymics.png)
+
 ## Features
 
 1. **Medal Tally**: View the medal tally based on selected years and countries.
